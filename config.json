@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://edge-stage-graph.adobe.io/api/498e042d-a812-42d8-b5b2-59b3ca6f1c38/graphql",
+      "commerce-core-endpoint": "https://na1-stage.api.commerce.adobe.com/Vq2MALJKjYz1cKnRNqTTZo/graphql",
       "commerce-endpoint": "https://edge-stage-graph.adobe.io/api/498e042d-a812-42d8-b5b2-59b3ca6f1c38/graphql",
       "headers": {
         "cs": {
