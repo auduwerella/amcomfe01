@@ -10,7 +10,7 @@
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
           "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "Magento-Environment-Id": "Vq2MALJKjYz1cKnRNqTTZo"
         }
       },
       "analytics": {
@@ -23,6 +23,31 @@
         "store-view-name": "Default Store View",
         "website-id": 1,
         "website-name": "Main Website"
+      }
+    },
+        "au": {
+      "commerce-core-endpoint": "https://na1-stage.api.commerce.adobe.com/Vq2MALJKjYz1cKnRNqTTZo/graphql",
+      "commerce-endpoint": "https://na1-stage.api.commerce.adobe.com/Vq2MALJKjYz1cKnRNqTTZo/graphql",
+      "headers": {
+        "cs": {
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "au",
+          "Magento-Store-View-Code": "au",
+          "Magento-Website-Code": "au",
+          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
+          "Magento-Environment-Id": "Vq2MALJKjYz1cKnRNqTTZo"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "AUD",
+        "environment": "Production",
+        "store-id": 2,
+        "store-name": "AU Website Store",
+        "store-url": "https://main--amcomfe01--auduwerella.aem.live/au/",
+        "store-view-id": 2,
+        "store-view-name": "AU Store View",
+        "website-id": 2,
+        "website-name": "AU Website"
       }
     }
   }
